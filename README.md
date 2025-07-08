@@ -9,6 +9,6 @@ Make sure you have the latest version of node js.
 
 ```bash
 git clone https://github.com/andreananda1022/React-Basic
-cd React-Basic
+cd React-Basic/
 npm install
 ```
