@@ -2,4 +2,4 @@
 
 ### Tic Tac Toe
 
-<img src="screenshots/IMG20250708.jpg" alt="test" width="300"/>
+<img src="screenshot/IMG20250708.jpg" alt="test" width="300"/>
